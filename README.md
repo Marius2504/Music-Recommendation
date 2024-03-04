@@ -1,7 +1,7 @@
 # :calendar: Music Recommandation
 
 ## :memo: Description
-Music prediction application designed to revolutionize your listening experience predicting the next trending songs based on user preferences and current music trends.
+Music prediction application designed to revolutionize your listening experience, while predicting the next trending songs based on user preferences and current music trends.
 Users can discover new music tailored to their taste preferences. Whether you're into pop, rock, hip-hop, or electronic music, it generates a personalized music discovery journey that keeps you engaged and excited.
 
 ## :robot: Dataset
